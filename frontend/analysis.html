@@ -1,0 +1,230 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>TerraMind AI - Environmental Analysis</title>
+
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <header class="navbar">
+
+        <div class="logo">
+            🌍 TerraMind AI
+        </div>
+
+        <nav>
+            <a href="dashboard.html">Dashboard</a>
+            <a href="analysis.html">Environmental Analysis</a>
+            <a href="chatbot.html">AI Chatbot</a>
+            <a href="assessments.html">Saved Assessments</a>
+        </nav>
+
+    </header>
+
+
+    <main>
+
+        <section class="hero">
+            <span class="dashboard-label">
+                TERRAMIND AI
+            </span>
+
+            <h1>
+                Environmental Analysis
+            </h1>
+
+            <p>
+                Analyze soil, climate, land use and biodiversity
+                using multi-metric environmental intelligence.
+            </p>
+        </section>
+
+
+        <!-- Environmental Input -->
+
+        <section class="card">
+
+            <h2>🌱 Environmental Data</h2>
+
+            <div class="input-grid">
+
+                <div>
+                    <label>Soil Organic Carbon</label>
+
+                    <input type="number" id="soilOrganicCarbon" step="0.1" placeholder="Example: 0.7">
+                </div>
+
+
+                <div>
+                    <label>Soil pH</label>
+
+                    <input type="number" id="soilPh" step="0.1" placeholder="Example: 6.5">
+                </div>
+
+
+                <div>
+                    <label>Rainfall</label>
+
+                    <select id="rainfall">
+
+                        <option value="">
+                            Select rainfall
+                        </option>
+
+                        <option value="Low">
+                            Low
+                        </option>
+
+                        <option value="Medium">
+                            Medium
+                        </option>
+
+                        <option value="High">
+                            High
+                        </option>
+
+                    </select>
+                </div>
+
+
+                <div>
+                    <label>Temperature</label>
+
+                    <input type="number" id="temperature" step="0.1" placeholder="Example: 31">
+                </div>
+
+
+                <div>
+                    <label>Crop</label>
+
+                    <input type="text" id="crop" placeholder="Example: Rice">
+                </div>
+
+
+                <div>
+                    <label>Land Use</label>
+
+                    <select id="landUse">
+
+                        <option value="">
+                            Select land use
+                        </option>
+
+                        <option value="Monoculture">
+                            Monoculture
+                        </option>
+
+                        <option value="Agroforestry">
+                            Agroforestry
+                        </option>
+
+                        <option value="Mixed Cropping">
+                            Mixed Cropping
+                        </option>
+
+                        <option value="Natural Vegetation">
+                            Natural Vegetation
+                        </option>
+
+                    </select>
+                </div>
+
+            </div>
+
+
+            <button id="analyzeButton" onclick="analyzeEnvironment()">
+                🔍 Analyze Environment
+            </button>
+
+        </section>
+
+
+        <!-- Loading -->
+
+        <section id="loading" class="card hidden">
+
+            <h3>
+                🧠 TerraMind AI is analyzing...
+            </h3>
+
+            <p>
+                Checking environmental relationships and
+                scientific evidence.
+            </p>
+
+        </section>
+
+
+        <!-- Results -->
+
+        <section id="results" class="card hidden">
+
+            <h2>
+                🌍 Environmental Intelligence
+            </h2>
+
+
+            <div class="result-section">
+
+                <h3>
+                    ⚠️ Environmental Risks
+                </h3>
+
+                <div id="risks"></div>
+
+            </div>
+
+
+            <div class="result-section">
+
+                <h3>
+                    💡 Recommendation
+                </h3>
+
+                <div id="recommendation"></div>
+
+            </div>
+
+
+            <div class="result-section">
+
+                <h3>
+                    📊 Impacted Metrics
+                </h3>
+
+                <div id="metrics"></div>
+
+            </div>
+
+
+            <div class="result-section">
+
+                <h3>
+                    🔬 Scientific Evidence
+                </h3>
+
+                <div id="evidence"></div>
+
+            </div>
+
+
+            <button id="saveAssessmentButton" onclick="saveAssessment()">
+                💾 Save Assessment
+            </button>
+
+        </section>
+
+    </main>
+
+
+    <script src="script.js"></script>
+
+</body>
+
+</html>

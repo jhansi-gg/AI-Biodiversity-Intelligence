@@ -1,0 +1,27 @@
+BIODIVERSITY INDICATORS
+
+Species richness refers to the number of different species present in a given area. It is one useful indicator for describing biodiversity.
+
+Habitat diversity describes the variety of habitat types available in an ecosystem. Greater habitat variety can provide different resources and conditions for different species.
+
+Plant diversity can influence the availability of food, shelter, and nesting resources for organisms such as insects, birds, and other wildlife.
+
+Pollinators such as bees, butterflies, and other insects can be influenced by the availability and diversity of flowering plants and suitable habitat.
+
+Habitat fragmentation can separate populations and reduce connectivity between suitable habitats. The ecological effects depend on the species, landscape structure, and surrounding land use.
+
+Environmental reasoning:
+Low vegetation diversity combined with habitat fragmentation can reduce the variety of resources and habitats available to some organisms. Increasing suitable native vegetation and improving habitat connectivity may support biodiversity, depending on local ecological conditions.
+
+Important metrics:
+- Species richness
+- Habitat diversity
+- Plant diversity
+- Pollinator diversity
+- Habitat connectivity
+
+Source category:
+Biodiversity research, ecological assessments, and environmental reports.
+
+Note:
+Biodiversity responses vary by ecosystem and species. Recommendations should consider local environmental conditions and evidence from relevant scientific sources.

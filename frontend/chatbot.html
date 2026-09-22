@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>TerraMind AI - AI Chatbot</title>
+
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <header class="navbar">
+
+        <div class="logo">
+            🌍 TerraMind AI
+        </div>
+
+        <nav>
+            <a href="dashboard.html">Dashboard</a>
+            <a href="analysis.html">Environmental Analysis</a>
+            <a href="chatbot.html">AI Chatbot</a>
+            <a href="assessments.html">Saved Assessments</a>
+        </nav>
+
+    </header>
+
+
+    <main>
+
+        <section class="hero">
+
+            <span class="dashboard-label">
+                TERRAMIND AI
+            </span>
+
+            <h1>
+                AI Biodiversity Intelligence
+            </h1>
+
+            <p>
+                Ask questions about soil, climate, land use,
+                biodiversity and environmental impacts.
+            </p>
+
+        </section>
+
+
+        <section class="card chatbot-card">
+
+            <div class="chat-header">
+
+                <div>
+                    <h2>🧠 TerraMind AI</h2>
+
+                    <p>
+                        Evidence-backed environmental intelligence
+                    </p>
+                </div>
+
+                <span class="chat-status">
+                    ● Online
+                </span>
+
+            </div>
+
+
+            <div id="chatMessages" class="chat-messages">
+
+                <div class="message bot-message">
+
+                    <strong>TerraMind AI</strong>
+
+                    <p>
+                        Hello! I can help you understand relationships
+                        between soil health, climate, land use and
+                        biodiversity. What would you like to know?
+                    </p>
+
+                </div>
+
+            </div>
+
+
+            <div class="chat-input-area">
+
+                <input type="text" id="chatInput" placeholder="Ask an environmental question...">
+
+                <button onclick="sendChatMessage()">
+                    Send ➤
+                </button>
+
+            </div>
+
+        </section>
+
+    </main>
+
+
+    <script src="script.js"></script>
+
+</body>
+
+</html>

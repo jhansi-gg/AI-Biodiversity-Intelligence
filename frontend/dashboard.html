@@ -1,0 +1,155 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>TerraMind AI - Dashboard</title>
+
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <header class="navbar">
+
+        <div class="logo">
+            🌍 TerraMind AI
+        </div>
+
+        <nav>
+            <a href="dashboard.html">Dashboard</a>
+            <a href="analysis.html">Environmental Analysis</a>
+            <a href="chatbot.html">AI Chatbot</a>
+            <a href="assessments.html">Saved Assessments</a>
+        </nav>
+
+    </header>
+
+
+    <main>
+
+        <section class="dashboard-section">
+
+            <div class="dashboard-card">
+
+                <div class="dashboard-header">
+
+                    <div>
+                        <span class="dashboard-label">
+                            TERRAMIND AI
+                        </span>
+
+                        <h1>
+                            Environmental Intelligence Dashboard
+                        </h1>
+
+                        <p>
+                            Welcome to your environmental intelligence workspace.
+                        </p>
+                    </div>
+
+                    <div class="dashboard-icon">
+                        🌍
+                    </div>
+
+                </div>
+
+
+                <div class="user-info">
+
+                    <div class="user-avatar">
+                        👤
+                    </div>
+
+                    <div>
+                        <h3 id="dashboardUsername">
+                            User
+                        </h3>
+
+                        <p id="dashboardEmail">
+                            email@example.com
+                        </p>
+                    </div>
+
+                </div>
+
+
+                <div class="dashboard-grid">
+
+                    <div class="dashboard-item">
+
+                        <span>🌱</span>
+
+                        <h3>
+                            Environmental Analysis
+                        </h3>
+
+                        <p>
+                            Analyze soil, climate, land use and biodiversity.
+                        </p>
+
+                        <a href="analysis.html">
+                            Open Analysis →
+                        </a>
+
+                    </div>
+
+
+                    <div class="dashboard-item">
+
+                        <span>🧠</span>
+
+                        <h3>
+                            AI Intelligence
+                        </h3>
+
+                        <p>
+                            Ask TerraMind AI environmental questions.
+                        </p>
+
+                        <a href="chatbot.html">
+                            Open Chatbot →
+                        </a>
+
+                    </div>
+
+
+                    <div class="dashboard-item">
+
+                        <span>📊</span>
+
+                        <h3>
+                            Saved Assessments
+                        </h3>
+
+                        <p id="assessmentCount">
+                            0 assessments saved
+                        </p>
+
+                        <a href="assessments.html">
+                            View Assessments →
+                        </a>
+
+                    </div>
+
+                </div>
+
+
+                <button class="dashboard-logout" onclick="logoutUser()">
+                    Logout
+                </button>
+
+            </div>
+
+        </section>
+
+    </main>
+
+
+    <script src="script.js"></script>
+
+</body>
+
+</html>

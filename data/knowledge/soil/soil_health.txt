@@ -1,0 +1,25 @@
+SOIL HEALTH AND BIODIVERSITY
+
+Soil organic carbon is an important indicator of soil health. Organic carbon contributes to soil structure, nutrient cycling, water-related soil functions, and biological activity.
+
+Higher soil organic matter can support soil organisms and contribute to improved soil structure and water retention. Soil biological activity is also connected to nutrient cycling and ecosystem functioning.
+
+Soil moisture influences plant growth and the survival of soil organisms. Water availability interacts with soil properties and climate conditions.
+
+Soil pH influences nutrient availability and microbial processes. Different plants and soil organisms have different pH requirements.
+
+Environmental reasoning:
+Low soil organic carbon combined with low rainfall can increase concern about soil water availability and soil biological activity. Management practices that increase plant cover and organic inputs may address multiple soil functions simultaneously.
+
+Important metrics:
+- Soil organic carbon
+- Soil moisture
+- Soil pH
+- Soil biological activity
+- Nutrient cycling
+
+Source category:
+Scientific soil-health literature and environmental reports.
+
+Note:
+The magnitude of improvement depends on soil type, climate, management practice, and duration. Recommendations should be supported by retrieved evidence rather than assuming a fixed percentage improvement.

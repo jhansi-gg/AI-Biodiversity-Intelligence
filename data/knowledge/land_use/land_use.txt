@@ -1,0 +1,30 @@
+LAND USE AND HABITAT
+
+Land use describes how land is managed or used for activities such as agriculture, forestry, settlements, and conservation.
+
+Agricultural monoculture means growing a single crop over a large area. Low crop diversity can reduce the variety of food and habitat resources available to some organisms.
+
+Land-use change can affect habitat availability, soil conditions, water movement, and biodiversity.
+
+Habitat fragmentation occurs when continuous natural habitat is divided into smaller areas. Fragmentation can affect movement, feeding, reproduction, and population connectivity for some species.
+
+Agroforestry combines trees with crops or other agricultural activities. Trees can provide habitat, contribute organic inputs, and influence soil and microclimate conditions.
+
+Maintaining vegetation diversity, habitat patches, and ecological connectivity can support biodiversity while also providing ecosystem functions.
+
+Environmental reasoning:
+Land use should be evaluated together with soil, climate, and biodiversity conditions. For example, monoculture combined with low rainfall and low soil organic carbon may indicate the need to consider practices that increase vegetation diversity, organic inputs, and habitat availability.
+
+Important metrics:
+- Land-use type
+- Crop diversity
+- Habitat area
+- Habitat fragmentation
+- Vegetation diversity
+- Habitat connectivity
+
+Source category:
+Land-use research, ecological studies, agricultural reports, and environmental assessments.
+
+Note:
+The effects of land-use practices depend on local climate, soil type, landscape structure, and species. Recommendations should be supported by relevant scientific evidence.

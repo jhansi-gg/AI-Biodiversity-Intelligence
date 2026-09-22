@@ -1,0 +1,28 @@
+CLIMATE FACTORS AND BIODIVERSITY
+
+Temperature and rainfall are important environmental factors that influence ecosystems, plant growth, water availability, and species survival.
+
+Temperature affects plant development, animal activity, reproduction, and the distribution of many species. Changes in temperature can alter suitable habitat conditions.
+
+Rainfall influences soil moisture, surface water availability, vegetation growth, and ecosystem productivity. Low rainfall can increase water stress, especially in semi-arid environments.
+
+Climate conditions interact with soil properties and land use. For example, low rainfall combined with low soil organic carbon may increase concern about water availability and soil functions.
+
+Extreme heat and irregular rainfall can create additional stress for plants and wildlife. The effects depend on ecosystem type, species characteristics, and local environmental conditions.
+
+Environmental reasoning:
+Temperature, rainfall, and soil conditions should be considered together when assessing environmental risks. Management practices that improve vegetation cover, soil water retention, and habitat availability may help reduce some climate-related environmental stresses.
+
+Important metrics:
+- Temperature
+- Rainfall
+- Soil moisture
+- Water availability
+- Vegetation productivity
+- Species survival
+
+Source category:
+Climate science literature, environmental assessments, and climate reports.
+
+Note:
+Climate impacts vary by location, ecosystem, species, and time period. Recommendations should use local conditions and relevant scientific evidence rather than assuming the same impact everywhere.

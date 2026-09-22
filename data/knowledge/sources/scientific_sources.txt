@@ -1,0 +1,43 @@
+SCIENTIFIC SOURCES FOR BIODIVERSITY REASONING
+
+SOURCE 1
+Title: Agroforestry boosts soil health in the humid and sub-humid tropics: A meta-analysis
+Authors: Mary N. Muchane et al.
+Year: 2020
+Organization: FAO
+Evidence:
+Agroforestry was associated with improved soil-related ecosystem functions compared with crop monocultures. The meta-analysis reported effects including higher soil organic carbon, improved infiltration, and improved soil structure.
+Application:
+This evidence can support recommendations involving agroforestry when low soil organic carbon and monoculture are identified.
+Source:
+FAO Agroecology Knowledge Hub
+
+
+SOURCE 2
+Title: Climate Change and Land
+Organization: Intergovernmental Panel on Climate Change (IPCC)
+Year: 2019
+Evidence:
+The report examines interactions among climate change, land use, land degradation, desertification, food systems, water availability, and biodiversity. It emphasizes that climate and land pressures can interact and create multiple environmental risks.
+Application:
+This evidence can support multi-metric reasoning involving rainfall, temperature, land use, soil conditions, and biodiversity.
+Source:
+IPCC Special Report on Climate Change and Land
+
+
+SOURCE 3
+Title: Impact of Agroforestry on soil fertility and soil carbon: A Review
+Author: D. K. Das
+Year: 2024
+Organization: Indian Society of Agroforestry / FAO AGRIS
+Evidence:
+The review describes agroforestry as a diversified land-management system that can influence soil fertility, soil carbon, and soil physical, biological, and chemical properties.
+Application:
+This evidence can support recommendations involving agroforestry and diversified agricultural systems.
+Source:
+FAO AGRIS
+
+
+IMPORTANT EVIDENCE LIMITATION
+
+Environmental outcomes vary according to climate, soil type, species, landscape structure, management practice, and duration. These sources should be treated as scientific evidence supporting reasoning, not as guarantees of a specific environmental improvement for every location.
