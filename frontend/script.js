@@ -2,7 +2,7 @@
 // TerraMind AI - Complete Frontend JavaScript
 // ============================================================
 
-const API_URL = "https://ai-biodiversity-intelligence-jk3t.onrender.com";
+const API_URL = "https://terramind-api.onrender.com";
 
 
 // ============================================================

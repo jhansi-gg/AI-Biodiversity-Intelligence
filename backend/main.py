@@ -20,7 +20,7 @@ app.add_middleware(
     allow_origins=[
     "http://127.0.0.1:5500",
     "http://localhost:5500",
-    "https://ai-biodiversity-intelligence-jk3t.onrender.com"
+    "https://terramind-api.onrender.com"
 ],
 
     allow_credentials=True,
