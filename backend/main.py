@@ -22,7 +22,7 @@ app.add_middleware(
     "http://localhost:5500",
     "https://ai-biodiversity-intelligence-jk3t.onrender.com"
 ],
-    ,
+
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
@@ -223,21 +223,7 @@ def analyze_environment(data: EnvironmentalData):
         "recommendations": recommendations
     }
 
-why_it_works = (
-    ...
-)
 
-impacted_metrics = (
-    ...
-)
-
-time_horizon = "Medium to long term"
-
-confidence = "High"
-
-scientific_basis = (
-    ...
-)
 
 
 
