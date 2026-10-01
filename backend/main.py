@@ -10,6 +10,8 @@ from backend.rag.knowledge_base import search_knowledge
 
 app = FastAPI(title="TerraMind AI")
 
+Base.metadata.create_all(bind=SessionLocal.kw["bind"])
+
 
 # -----------------------------
 # CORS
